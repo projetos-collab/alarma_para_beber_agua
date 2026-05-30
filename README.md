@@ -1,37 +1,11 @@
-# 💧 Lembrete de Hidratação
+# Sample Snack app
 
-Um aplicativo móvel desenvolvido em **React Native** com **Expo** projetado para ajudar os usuários a manterem hábitos saudáveis de consumo de água, enviando notificações personalizadas em intervalos de tempo configurados.
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
----
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-## ✨ Funcionalidades
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-* ⏰ **Agendamento Inteligente:** Configure alertas periódicos para lembrar de beber água.
-* 📊 **Contador Diário:** Acompanhe o volume total de água consumido ao longo do dia.
-* ⚙️ **Customização:** Escolha entre diferentes intervalos de tempo e volumes de água padronizados.
-* 🔔 **Sistema de Resposta Rápida:** Notificações integradas via `expo-notifications` que funcionam mesmo com o aplicativo fechado ou em segundo plano, abrindo um modal de confirmação ao clicar no alerta.
-* 📳 **Feedback Háptico:** Vibrações sutis ao receber alertas para melhorar a experiência do usuário.
-* 💾 **Persistência de Dados:** O progresso diário e as configurações do alarme são salvos localmente no dispositivo via `AsyncStorage`.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
-* [React Native](https://reactnative.dev/)
-* [Expo Go](https://expo.dev/)
-* [Expo Notifications](https://docs.expo.dev/versions/latest/sdk/notifications/)
-* [Async Storage](https://react-native-async-storage.github.io/async-storage/)
-* [Expo Haptics](https://docs.expo.dev/versions/latest/sdk/haptics/)
-
----
-
-## 🚀 Como Executar o Projeto
-
-### Pré-requisitos
-Antes de começar, você precisará ter instalado em sua máquina o [Node.js](https://nodejs.org/) e o gerenciador de pacotes (npm ou yarn), além do aplicativo **Expo Go** instalado no seu celular (Android ou iOS).
-
-### Passo a Passo
-
-1. **Clonar o repositório:**
-```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
